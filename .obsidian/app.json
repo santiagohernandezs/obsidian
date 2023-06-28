@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "vimMode": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "spellcheckLanguages": [
+    "es",
+    "en-US"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

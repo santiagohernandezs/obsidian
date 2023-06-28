@@ -1,0 +1,5 @@
+Veamos algunos ejemplos con animales. La mayoría de los `Animal` puede emitir sonidos. Podemos anticipar que todas las subclases necesitarán sobrescribir el método base `emitirSonido()` para que cada subclase pueda emitir el sonido correcto; por lo tanto, podemos declararlo *abstracto* directa mente. Esto nos permite omitir cualquier implementación por defecto del método en la superclase, pero fuerza a todas las subclases a establecer las suyas propias.
+
+![](https://i.imgur.com/wfzVXLL.png)
+
+El polimorfismo es la capacidad que tiene un programa de detectar la verdadera clase de un objeto e invocar su implementación, incluso aunque su tipo real sea desconocido en el contexto actual. También puedes pensar en el polimorfismo como la capacidad de un objeto para “fingir” ser otra cosa, normalmente una clase que extiende o una interfaz que implementa.

@@ -1,0 +1,2 @@
+[[Variables]]
+[[Estructura de datos]]

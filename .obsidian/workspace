@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "17bd4f61c1bd8a37",
+    "type": "split",
+    "children": [
+      {
+        "id": "855950186eb55517",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa0e2fd5c51f8ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55b5bf8a8cd3cad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a0187801f8a1f5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "263938a6b6775811",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "9cd8dc5d4d00da18",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ec23ae77057315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b682bc25ba5b2c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2439a3460f231d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ecd076578b81cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informática/Informática.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f053145fa624dae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informática/Sistemas Operativos/Linux/Ubuntu y Sistemas Operativos/Superusuario (root).md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "active": "855950186eb55517",
+  "lastOpenFiles": [
+    "Informática/Sistemas Operativos/Linux/Introducción/Comandos.md",
+    "Informática/Sistemas Operativos/Linux/Ubuntu y Sistemas Operativos/Ubuntu y Sistemas Operativos.md",
+    "Informática/Sistemas Operativos/Linux/Ubuntu y Sistemas Operativos/Superusuario (root).md",
+    "Informática/Sistemas Operativos/Linux/Introducción/Introducción.md",
+    "Informática/Sistemas Operativos/Linux/Linux.md",
+    "Informática/Sistemas Operativos/Sistemas Operativos.md",
+    "Informática/Sistemas Operativos/Linux/Introducción/Sistema Operativo (OS).md",
+    "Informática/Informática.md",
+    "Informática/Sistemas Operativos/Linux/Introducción/Ubuntu y Sistemas Operativos.md",
+    "Informática/Base de Datos.md"
+  ]
+}

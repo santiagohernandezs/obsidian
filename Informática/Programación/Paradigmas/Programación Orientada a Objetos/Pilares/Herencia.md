@@ -1,0 +1,3 @@
+La *herencia* es la capacidad de crear nuevas clases sobre otras existentes. Con esto se reutiliza el código existente y si quieres crear un clase que derive de otra, simplemente extiendes la clase existente y colocas las funcionalidades adicionales dentro de una subclase resultante que hereda los campos y métodos de la superclase. La consecuencia del uso de la herencia es que las subclases tienen la misma interfaz que su clase padre. No puedes esconder un método en una subclase si se declaró en la superclase. También debes implementar todos los métodos abstractos, aunque no tengan sentido en tu subclase.
+
+![](https://i.imgur.com/mpiTcn0.png)

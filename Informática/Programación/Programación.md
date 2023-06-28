@@ -1,0 +1,6 @@
+[[Informática/Programación/Fundamentos/Fundamentos|Fundamentos]]
+[[Javascript]]
+[[Paradigmas]]
+[[Patrones de Diseño]]
+[[Principios del Diseño de Software]]
+[[Principios SOLID]]

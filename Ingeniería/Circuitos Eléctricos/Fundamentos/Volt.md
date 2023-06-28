@@ -1,0 +1,2 @@
+El voltio o volt es una unidad derivada del Sistema Internacional para el potencial eléctrico, la fuerza automotriz y la tensión eléctrica. Recibe su nombre en honor a Alessandro Volta, quien en 1800 inventó la pila voltaica.
+En sí, se define como la diferencia de potencial a lo largo de un conductor cuando una corriente de un amperio consume un vatio de potencia. También es definido como la diferencia de potencial existente entre dos puntos tales que realizar un trabajo de 1 J (joule) para trasladar de un lado a otro la carga de 1 C (coulomb)
