@@ -64,12 +64,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "2a5751e82eb9a2bd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 298.5
   },
   "right": {
     "id": "9cd8dc5d4d00da18",
@@ -128,21 +137,14 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "2a5751e82eb9a2bd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 430.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,13 +158,21 @@
       "workspaces:Manage workspace layouts": false,
       "daily-notes:Open today's daily note": false,
       "markdown-importer:Open format converter": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24ce0e482ed3bd4a",
+  "active": "2a5751e82eb9a2bd",
   "lastOpenFiles": [
+    "Diseño/UI/Fundamentos/Diagrama.excalidraw.md",
     "Diseño/UI/Fundamentos/Intenciones del usuario.md",
+    "Excalidraw",
+    "Diseño/UI/Fundamentos/Untitled.canvas",
+    "Untitled.canvas",
+    "Informática/Diagramas UML/Diagramas Estructurales/Diagrama de Clases.md",
+    "Informática/Algoritmia/Digramas/Diagramas de Flujo.md",
     "Diseño/UI/UI.md",
+    "Diseño/UX/Fundamentos.md",
     "Diseño/UI/Fundamentos/Untitled",
     "Diseño/UI/Fundamentos/Untitled/Untitled",
     "Diseño/UI/Fundamentos",
@@ -177,7 +187,6 @@
     "índice.md",
     "Diseño/UX/UX.md",
     "Programación Orientada a Objetos.md",
-    "Diseño/UX/Fundamentos.md",
     "Diseño/UI/Material Design/Foundations",
     "Diseño/UI/Material Design",
     "Diseño/UI",
@@ -191,14 +200,9 @@
     "Informática/Programación/Principios SOLID/Open-Closed Principle.md",
     "Informática/Programación/Principios del diseño de software/Principios del Diseño de Software.md",
     "Informática/Programación/Principios del diseño de software/Favorece la composición sobre la herencia.md",
-    "Informática/Programación/Principios SOLID",
     "Informática/Programación/Principios del diseño de software/Encapsula lo que varía..md",
     "Informática/Programación/Principios del diseño de software/Extensibilidad.md",
-    "Informática/Diagramas UML/Diagramas Estructurales/Diagrama de Clases.md",
     "Informática/Diagramas UML/Diagramas UML.md",
-    "Informática/Programación/Patrones de diseño/Patrones de Diseño.md",
-    "Informática/Programación/Principios del diseño de software/Reutilización de código.md",
-    "Untitled.canvas",
     "What_is_derivative_(animation).gif",
     "Untitled 1.canvas"
   ]

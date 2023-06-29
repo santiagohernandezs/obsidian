@@ -133,5 +133,14 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-git:edit-remotes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
