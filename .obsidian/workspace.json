@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b46e39acc23f653c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diseño/UI/Fundamentos/Proceso de Diseño UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño/UI/Fundamentos/Intenciones del usuario.md",
+                "file": "Diseño/UI/Fundamentos/Proceso de Diseño UI.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño/UI/Fundamentos/Intenciones del usuario.md",
+                "file": "Diseño/UI/Fundamentos/Proceso de Diseño UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño/UI/Fundamentos/Intenciones del usuario.md"
+                "file": "Diseño/UI/Fundamentos/Proceso de Diseño UI.md"
               }
             }
           },
@@ -162,10 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a5751e82eb9a2bd",
+  "active": "b46e39acc23f653c",
   "lastOpenFiles": [
-    "Diseño/UI/Fundamentos/Diagrama.excalidraw.md",
     "Diseño/UI/Fundamentos/Intenciones del usuario.md",
+    "Diseño/UI/Fundamentos/Proceso de Diseño UI.md",
+    "image.jpg.md",
+    "[.md",
+    "Diseño/UI/Fundamentos/Intenciones del usuario.excalidraw.md",
     "Excalidraw",
     "Diseño/UI/Fundamentos/Untitled.canvas",
     "Untitled.canvas",
@@ -200,9 +216,6 @@
     "Informática/Programación/Principios SOLID/Open-Closed Principle.md",
     "Informática/Programación/Principios del diseño de software/Principios del Diseño de Software.md",
     "Informática/Programación/Principios del diseño de software/Favorece la composición sobre la herencia.md",
-    "Informática/Programación/Principios del diseño de software/Encapsula lo que varía..md",
-    "Informática/Programación/Principios del diseño de software/Extensibilidad.md",
-    "Informática/Diagramas UML/Diagramas UML.md",
     "What_is_derivative_(animation).gif",
     "Untitled 1.canvas"
   ]
