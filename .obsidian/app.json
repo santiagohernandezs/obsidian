@@ -5,10 +5,7 @@
   "strictLineBreaks": false,
   "showLineNumber": false,
   "rightToLeft": false,
-  "spellcheckLanguages": [
-    "es",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",

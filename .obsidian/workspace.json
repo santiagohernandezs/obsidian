@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño/UI/Fundamentos/Intenciones del usuario.md",
+                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño/UI/Fundamentos/Intenciones del usuario.md",
+                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño/UI/Fundamentos/Intenciones del usuario.md",
+                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño/UI/Fundamentos/Intenciones del usuario.md"
+                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md"
               }
             }
           },
@@ -163,13 +163,20 @@
   },
   "active": "2a5751e82eb9a2bd",
   "lastOpenFiles": [
+    "Informática/Programación/Principios SOLID/Open-Closed Principle.md",
+    "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+    "Informática/Estructura de Base de Datos",
     "Informática/Programación/Fundamentos/Variables.md",
     "Informática/Programación/Fundamentos/Fundamentos.md",
-    "Diseño/UI/Fundamentos/Intenciones del usuario.md",
     "Diseño/UI/Fundamentos/Proceso de Diseño UI.md",
+    "Diseño/UI/Fundamentos/Intenciones del usuario.excalidraw.md",
+    "Diseño/UI/Fundamentos/Intenciones del usuario.md",
+    "Informática/Programación/Patrones de diseño/Patrones Creacionales/Factory Method.md",
+    "Informática/Programación/Patrones de diseño/Patrones Creacionales/Abstract Factory.md",
+    "Informática/Programación/JavaScript/Objetos/Métodos/Métodos.md",
+    "Informática/Programación/JavaScript/Arrays/Métodos/Métodos.md",
     "image.jpg.md",
     "[.md",
-    "Diseño/UI/Fundamentos/Intenciones del usuario.excalidraw.md",
     "Excalidraw",
     "Diseño/UI/Fundamentos/Untitled.canvas",
     "Untitled.canvas",
@@ -193,15 +200,8 @@
     "Programación Orientada a Objetos.md",
     "Diseño/UI/Material Design/Foundations",
     "Diseño/UI/Material Design",
-    "Diseño/UI",
     "Diseño/UX/From UXR to UCD.md",
-    "Informática/Programación/JavaScript/Arrays/Métodos/Métodos.md",
     "Informática/Programación/Principios SOLID/Principios SOLID.md",
-    "Informática/Programación/Paradigmas/Programación Orientada a Objetos/Programación Orientada a Objetos (POO).md",
-    "Informática/Programación/Programación.md",
-    "Informática/Programación/Principios SOLID/Single Responsibility Principle.md",
-    "Informática/Algoritmia/Algoritmia.md",
-    "Informática/Programación/Principios SOLID/Open-Closed Principle.md",
     "What_is_derivative_(animation).gif",
     "Untitled 1.canvas"
   ]
