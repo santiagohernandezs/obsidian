@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8d32a99518a9b6c3",
+        "id": "3c523dcc6e43a7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa67831f3db814f",
+            "id": "215e90c5a57cb5be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+                "file": "Informática/HTML/HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6883ed7d6c4dd81",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Proceso de creacion de software.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+                "file": "Excalidraw/Proceso de creacion de software.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+                "file": "Excalidraw/Proceso de creacion de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md"
+                "file": "Excalidraw/Proceso de creacion de software.md"
               }
             }
           },
@@ -163,45 +174,45 @@
   },
   "active": "2a5751e82eb9a2bd",
   "lastOpenFiles": [
-    "Informática/Programación/Principios SOLID/Open-Closed Principle.md",
+    "Informática/HTML/HTML.md",
+    "Excalidraw/Proceso de creacion de software.md",
+    "Excalidraw",
+    "Informática/HTML",
+    "Telecom/DOCS/Routing _ Switching/OSPF/Establecimiento y estado de Vecindades.md",
+    "Telecom/DOCS/Routing _ Switching/OSPF/Configuración Inicial.md",
+    "Ingeniería/Circuitos Eléctricos/Fundamentos/Volt.md",
+    "Ingeniería/Circuitos Eléctricos/Fundamentos/Potencial Eléctrico.md",
+    "Ingeniería/Circuitos Eléctricos/Fundamentos/Circuitos.md",
+    "Ingeniería/Matemáticas/Vectores.md",
+    "Ingeniería/Matemáticas/Diferenciales.md",
+    "Ingeniería/Matemáticas/Derivadas.md",
+    "Informática/Programación/JavaScript/Arrays/Métodos/Métodos.md",
     "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
-    "Informática/Estructura de Base de Datos",
+    "Informática/Algoritmia/Identificadores/Identificadores.md",
+    "Informática/Algoritmia/Digramas/Diagramas de Flujo.md",
+    "Informática/Programación/Principios SOLID/Principios SOLID.md",
+    "Informática/Programación/Principios SOLID/Single Responsibility Principle.md",
+    "Informática/Programación/Principios SOLID/Open-Closed Principle.md",
+    "Informática/Programación/Patrones de diseño/Patrones Creacionales/Abstract Factory.md",
+    "Informática/Programación/JavaScript/Javascript.md",
+    "Informática/Programación/JavaScript/Objetos/Métodos/Métodos.md",
+    "Informática/Programación/JavaScript/Numeros/Propiedades/Propiedades.md",
+    "Informática/Programación/JavaScript/Numeros/Métodos/Métodos.md",
+    "Informática/Programación/JavaScript/Arrays/Propiedades/Propiedades.md",
     "Informática/Programación/Fundamentos/Variables.md",
     "Informática/Programación/Fundamentos/Fundamentos.md",
-    "Diseño/UI/Fundamentos/Proceso de Diseño UI.md",
-    "Diseño/UI/Fundamentos/Intenciones del usuario.excalidraw.md",
-    "Diseño/UI/Fundamentos/Intenciones del usuario.md",
-    "Informática/Programación/Patrones de diseño/Patrones Creacionales/Factory Method.md",
-    "Informática/Programación/Patrones de diseño/Patrones Creacionales/Abstract Factory.md",
-    "Informática/Programación/JavaScript/Objetos/Métodos/Métodos.md",
-    "Informática/Programación/JavaScript/Arrays/Métodos/Métodos.md",
-    "image.jpg.md",
-    "[.md",
-    "Excalidraw",
+    "Informática/Sistemas Operativos/Sistemas Operativos.md",
+    "Informática/Estructura de Base de Datos",
     "Diseño/UI/Fundamentos/Untitled.canvas",
     "Untitled.canvas",
-    "Informática/Diagramas UML/Diagramas Estructurales/Diagrama de Clases.md",
-    "Informática/Algoritmia/Digramas/Diagramas de Flujo.md",
-    "Diseño/UI/UI.md",
-    "Diseño/UX/Fundamentos.md",
     "Diseño/UI/Fundamentos/Untitled",
     "Diseño/UI/Fundamentos/Untitled/Untitled",
     "Diseño/UI/Fundamentos",
     "Untitled",
-    "Diseño/UI/Material Design/Foundations/Accessible design.md",
     "utils",
-    "Diseño/UI/Material Design/Foundations/Foundations.md",
     "Diseño/UI/Material Design/Untitled",
     "Pasted image 20230626123413.png",
-    "Diseño/UI/Material Design/Material Design.md",
-    "Diseño/Diseño.md",
-    "índice.md",
-    "Diseño/UX/UX.md",
-    "Programación Orientada a Objetos.md",
     "Diseño/UI/Material Design/Foundations",
-    "Diseño/UI/Material Design",
-    "Diseño/UX/From UXR to UCD.md",
-    "Informática/Programación/Principios SOLID/Principios SOLID.md",
     "What_is_derivative_(animation).gif",
     "Untitled 1.canvas"
   ]
