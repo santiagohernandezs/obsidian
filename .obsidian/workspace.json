@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d51d73723d6eee37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informática/HTML/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+                "file": "Informática/HTML/HTML.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+                "file": "Informática/HTML/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md"
+                "file": "Informática/HTML/HTML.md"
               }
             }
           },
@@ -161,10 +174,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a5751e82eb9a2bd",
+  "active": "d51d73723d6eee37",
   "lastOpenFiles": [
-    "Informática/Algoritmia/Big O Notation",
+    "conflict-files-obsidian-git.md",
     "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+    "Informática/HTML/HTML.md",
+    "Informática/HTML",
+    "Excalidraw/Proceso de creacion de software.md",
+    "Informática/Algoritmia/Big O Notation",
     "Informática/Estructura de Base de Datos",
     "Diseño/UI/Fundamentos/Proceso de Diseño UI.md",
     "Ingeniería/Diseño de Sistemas de Información/Untitled",
@@ -196,12 +213,8 @@
     "Diseño/UI/UI.md",
     "Diseño/UI/Fundamentos/Untitled",
     "Diseño/UI/Fundamentos/Untitled/Untitled",
-    "Diseño/UI/Fundamentos",
-    "Untitled",
     "Diseño/UI/Material Design/Foundations/Accessible design.md",
     "Pasted image 20230626123413.png",
-    "Diseño/UI/Material Design/Material Design.md",
-    "Programación Orientada a Objetos.md",
     "What_is_derivative_(animation).gif",
     "Untitled 1.canvas"
   ]
