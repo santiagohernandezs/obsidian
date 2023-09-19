@@ -1,0 +1,10 @@
+CoPara el siglo X d. C. el matemático y poeta Omar Khayyam estableció una teoría de números y añadió algunos elementos a los números racionales, como son lo irracionales, para que puedan ser medidas todas las magnitudes. A finales del sigo 19 se formalizó la idea de continuidad y se dio una definición satisfactoria del conjunto los números reales, los trabajos de Cantor, Dedekind, Weierstrass, Heine y Meray, entre otros, destacan en esta labor.
+
+El hombre ha tenido la necesidad de contar desde su aparición sobre la Tierra hasta nuestros días, para hacerlo se auxilió de los números 1, 2, 3, 4, 5 ..., a los que llamó números naturales. Números que construyo con base al principio de adición; sin embargo, pronto se dio cuenta de que este principio no aplica para aquellas situaciones en la que quiere descontar, entonces creó los números negativos y con ellos el número neutro (cero). Asimismo, se percató que al tomar una parte de un número surgían los números racionales, que se expresan como el cociente de dos números enteros, con el divisor distinto de cero, por ejemplo $\frac{1}{2}, \frac{9}{3}, \frac{7}{5}$. Y aquellos números que era imposible expresar de esta manera se les llama irracionales, por ejemplo $\sqrt{2}, \sqrt{4}, \sqrt{6}, \pi$.
+
+## Propiedades
+| Propiedades | Suma                 | Multiplicación             | Ejemplos                                                                               |
+| ----------- | -------------------- | -------------------------- | -------------------------------------------------------------------------------------- |
+| Cerradura   | $a+b \in \mathbb{R}$ | $a \cdot b \in \mathbb{R}$ | $5+3=8 \in \mathbb{R}$, $2 \cdot (-3) = -6 \in \mathbb{R}$                             |
+| Conmutativa | $a+b = b+a$          | $a \cdot b = b \cdot a$    | $\frac{1}{2}+\frac{3}{7}=\frac{3}{7}+\frac{1}{2}$, $(2)(\frac{1}{5})=(\frac{1}{5})(2)$ |
+| Asociativa            | $a+(b+c) = (a+b)+c$                     | $a(b \cdot c)= (a \cdot b)c$                           |                                                                                        |

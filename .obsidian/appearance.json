@@ -3,7 +3,7 @@
   "theme": "obsidian",
   "cssTheme": "",
   "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "nativeMenus": true,
   "translucency": false
 }
