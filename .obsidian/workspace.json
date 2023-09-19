@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Notas rapidas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53bdcb642a928182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas rapidas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas rapidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Notas rapidas.md"
               }
             }
           },
@@ -174,14 +160,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53bdcb642a928182",
+  "active": "55bc91f6872baa29",
   "lastOpenFiles": [
+    "Informática/Programación/JavaScript/Arrays/Métodos/Métodos.md",
+    "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+    "Informática/Algoritmia/Identificadores/Identificadores.md",
+    "Informática/Algoritmia/Algoritmia.md",
+    "Informática/Algoritmia/Estructuras/Estructuras.md",
+    "Informática/Algoritmia/Digramas/Diagramas de Flujo.md",
     "Notas rapidas.md",
     "conflict-files-obsidian-git.md",
     "Informática/Programación/Paradigmas/Programación Orientada a Objetos/Programación Orientada a Objetos (POO).md",
     "Informática/Programación/Paradigmas/Programación Funcional/Programación Funcional.md",
     "2023-09-01.md",
-    "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
     "Telecom/DOCS/Routing _ Switching/OSPF/Configuración Inicial.md",
     "Diseño/UI/Material Design/Foundations/Accessible design.md",
     "Diseño/UI/Fundamentos/Intenciones del usuario.excalidraw.md",
@@ -197,11 +188,6 @@
     "Telecom/CISCO/CCNA R_S/Modulo 1/Conexiones a Internet.md",
     "Informática/Programación/Principios SOLID/Principios SOLID.md",
     "Informática/Programación/Principios SOLID/Open-Closed Principle.md",
-    "Informática/Diagramas UML/Diagramas de Comportamiento/Diagramas de Comportamiento.md",
-    "Informática/Algoritmia/Digramas/Diagramas de Flujo.md",
-    "Informática/Programación/JavaScript/Arrays/Métodos/Métodos.md",
-    "Telecom/CISCO/CCNA R_S/Modulo 3/Protocolos.md",
-    "Telecom/CISCO/CCNA R_S/Modulo 3/Modulo 3.md",
     "Excalidraw",
     "Informática/HTML",
     "Informática/Estructura de Base de Datos",
