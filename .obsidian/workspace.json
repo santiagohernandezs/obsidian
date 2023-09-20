@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informática/La Nube/Cloud Computing/Start With a Platform.md",
-                "mode": "source",
+                "file": "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informática/La Nube/Cloud Computing/Start With a Platform.md",
+                "file": "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informática/La Nube/Cloud Computing/Start With a Platform.md",
+                "file": "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informática/La Nube/Cloud Computing/Start With a Platform.md"
+                "file": "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "2dde35c02fb90308",
   "lastOpenFiles": [
-    "Informática/La Nube/Cloud Computing/Start With a Platform.md",
     "Informática/La Nube/Cloud Computing/So, what's the cloud anyway.md",
+    "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md",
+    "Ingeniería/Diseño de Sistemas de Información/Untitled/Untitled",
+    "Informática/La Nube/Cloud Computing/Start With a Platform.md",
     "Informática/La Nube/Cloud Computing/Introduction.md",
     "Informática/La Nube/Cloud Computing/Untitled",
     "Pasted image 20230916140108.png",
@@ -216,12 +218,10 @@
     "Telecom/CISCO/CCNA R_S/Modulo 1/Arquitectura de Red.md",
     "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
     "Informática/HTML",
-    "Excalidraw/Proceso de creacion de software.md",
     "Informática/Algoritmia/Big O Notation",
     "Informática/Estructura de Base de Datos",
     "Ingeniería/Diseño de Sistemas de Información/Untitled",
     "Ingeniería/Diseño de Sistemas de Información",
-    "Informática/Programación/TypeScript",
     "Untitled.canvas",
     "Diseño/UI/Fundamentos/Untitled.canvas",
     "Pasted image 20230626123413.png",
