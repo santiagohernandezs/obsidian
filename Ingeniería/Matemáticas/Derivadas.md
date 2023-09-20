@@ -1,6 +1,6 @@
 En el cálculo diferencial y análisis matemático, la derivada de una función es la razón de cambio instantánea con la que varía el valor de dicha función matemática, según se modifique el valor de su variable independiente.
 
-![Imgur](https://imgur.com/tWXLvwD.png)
+![Imgur|450](https://imgur.com/tWXLvwD.png)
 
 Un ejemplo de uso de las derivadas aparece al estudiar el movimiento: Si una función representa la posición de un objeto respecto al tiempo, su derivada es la velocidad de dicho objeto para todos los momentos. Se interpreta geométricamente como la pendiente de una recta tangente a la gráfica de la función en un dicho punto.
 
@@ -156,3 +156,6 @@ La derivada de una función, **en principio**, puede ser calculada a partir de l
 ## Derivadas de funciones elementales
 La mayor parte de los cálculos de derivadas requieren tomar eventualmente la derivada de algunas funciones comunes. La siguiente tabla incompleta proporciona algunas de las más frecuentes funciones de una variable real usadas y sus derivadas.
 ![Imgur](https://imgur.com/dSNaLjW.png)
+
+# Aplicación de las derivadas
+## Pendiente
