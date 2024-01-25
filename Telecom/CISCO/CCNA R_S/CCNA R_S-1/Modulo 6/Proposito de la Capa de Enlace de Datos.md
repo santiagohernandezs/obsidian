@@ -27,7 +27,7 @@ La figura muestra un ejemplo de cómo la capa de enlace de datos agrega informac
 
 Los estándares IEEE 802 LAN/WAN son específicos para LAN Ethernet, LAN inalámbricas (WLAN), redes de área personal inalámbrica (WPAN) y otros tipos de redes locales y metropolitanas. La capa de enlace de datos IEEE 802 LAN/WAN consta de las dos subcapas siguientes.
 
--   **Logical Link Control (LLC)**: Esta subcapa IEEE 802.2 se comunica entre el software red y el hardware del dispositivo. Coloca en [[la trama]] información que identifica qué protocolo de capa de red se utiliza para [[la trama]]. Esta información permite que múltiples protocolos de Capa 3, como IPv4 e IPv6, utilicen la misma interfaz de red y medios.
+-   **Logical Link Control (LLC)**: Esta subcapa IEEE 802.2 se comunica entre el software red y el hardware del dispositivo. Coloca en [[La Trama]] información que identifica qué protocolo de capa de red se utiliza para [[La Trama]]. Esta información permite que múltiples protocolos de Capa 3, como IPv4 e IPv6, utilicen la misma interfaz de red y medios.
     
 -   **Media Access Control (MAC)**: Implementa esta subcapa (IEEE 802.3, 802.11 o 802.15) en hardware. Es responsable de la encapsulación de datos y el control de acceso a los medios. Proporciona direccionamiento de capa de anlce de datos y está integrado con varias tecnologías de capa física.
     

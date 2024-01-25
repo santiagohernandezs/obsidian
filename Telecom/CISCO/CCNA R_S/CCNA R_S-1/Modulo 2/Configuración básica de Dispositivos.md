@@ -2,7 +2,7 @@
 
 El primer comando de configuración en cualquier dispositivo debe ser darle un nombre de dispositivo único o nombre de host. De forma predeterminada, a todos los dispositivos se les asigna un nombre predeterminado de fábrica. Por ejemplo, un switch Cisco IOS es .
 
-El problema es que si todos los awitches de una red se quedaran con sus nombres predeterminados, sería difícil identificar un dsipositivo específico. Por ejemplo, ¿cómo sabrías que estás conectado al dispositivo correcto al acceder remotamente a través de una conexión SSH? El nombre de host proporciona la confirmación de que está conectado al dispositivo correcto.
+El problema es que si todos los awitches de una red se quedaran con sus nombres predeterminados, sería difícil identificar un dispositivo específico. Por ejemplo, ¿cómo sabrías que estás conectado al dispositivo correcto al acceder remotamente a través de una conexión SSH? El nombre de host proporciona la confirmación de que está conectado al dispositivo correcto.
 
 El nombre predeterminado debe cambiarse a algo más descriptivo. Al elegir nombres atinadamente, resulta más fácil recordar, analizar e identificar los dispositivos de red. Estas son algunos pautas de nomenclatura importantes para los host:
 
@@ -16,7 +16,7 @@ Una organización debe elegir una convención de nomenclatura que haga que sea f
 
 ![](https://ccnadesdecero.es/wp-content/uploads/2017/11/Cambiar-Nombres-de-host-en-Swtich.png)
 	
-Cuando se nombranlos dispositivo de red, son fáciles de identificar para fines de configuración.
+Cuando se nombran los dispositivo de red, son fáciles de identificar para fines de configuración.
 
 Para configurar el nombre del dispositivo usamos la siguiente suseción de comandos:
 
@@ -30,7 +30,7 @@ Sw-Floor-1(config)#
 
 # Pautas de la contraseña
 
-El usa de contraseñas edébiles o fácilmente adivinadas sigue siendo la mayor preocuapción de seguridad de las organizaciones. Los dispositivos de red, incluso los router inlámbricos hogareños, siempre deben tener contraseñasconfiguradas para limitar el acceso administrativo.
+El uso de contraseñas débiles o fácilmente adivinadas sigue siendo la mayor preocuapción de seguridad de las organizaciones. Los dispositivos de red, incluso los router inlámbricos hogareños, siempre deben tener contraseñas configuradas para limitar el acceso administrativo.
 
 Cisco IOS puede configurarse para utilizar contraseñas en modo jerárquico y permitir diferentes privilegios de acceso al dispositivo de red.
 
@@ -60,10 +60,8 @@ Sw-Floor-1#
 
 ```cisco
 Sw-Floor-1# configure terminal
-Sw-Floor-1(config)# line vty 0 15
-Sw-Floor-1(config-line)# password cisco 
-Sw-Floor-1(config-line)# login 
-SW-Floor-1(config-line)# end
+Sw-Floor-1(config)# enable secret cisco
+Sw-Floor-1(config)# end
 Sw-Floor-1#
 ```
 

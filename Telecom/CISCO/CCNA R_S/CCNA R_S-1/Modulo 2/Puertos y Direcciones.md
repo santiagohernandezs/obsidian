@@ -32,5 +32,9 @@ Existen varios tipos de medios cada uno con sus ventajas y desventajas, ya que, 
 
 Para acceder al switch de manera remota, se deben configurar una dirección IP y una máscara de subred en la SVI. Para configurar una SVI en un switch, utilice el comando de **interface vlan 1** configuración global. La Vlan 1 no es una interfaz física real, sino una virtual. A continuación, asigne una dirección IPv4 mediante el comando **ip address** _ip-address_ _subnet-mask_ de la configuración de interfaz. Finalmente, habilite la interfaz virtual utilizando el comando de **no shutdown** configuración de la interfaz.
 ```cisco
-Sw-Floor-1# configure terminal Sw-Floor-1(config)# interface vlan 1 Sw-Floor-1(config-if)# ip address 192.168.1.20 255.255.255.0 Sw-Floor-1(config-if)# no shutdown Sw-Floor-1(config-if)# exit Sw-Floor-1(config)# ip default-gateway 192.168.1.1
+Sw-Floor-1# configure terminal
+Sw-Floor-1(config)# interface vlan 1
+Sw-Floor-1(config-if)# ip address 192.168.1.20 255.255.255.0
+Sw-Floor-1(config-if)# no shutdown Sw-Floor-1(config-if)# exit
+Sw-Floor-1(config)# ip default-gateway 192.168.1.1
 ```

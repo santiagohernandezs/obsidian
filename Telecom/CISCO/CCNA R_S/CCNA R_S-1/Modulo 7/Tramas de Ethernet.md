@@ -31,7 +31,7 @@ El tamaño de trama dee Ethernetes de 64 bytes, y el máximo es de 1518 bytes. E
 
 Cualquier trama de menos de 64 bytes de longitud se considera un fragmento de colisión o una trama corta, y es descartada automáticamente por las estaciones receptoras. Las tramas de más de 1500 bytes se consideran ''Jumbos'' o tramas ''bebés gigantes''.
 
-Si el tamaño de [[la trama]] es inferior que el mínimo o mayor que el máximo, el dispositivo recpetor descarta la trama. Es posible que las tramas descartadas se originen en colisiones u otras señales no deseadas. Ellas se consideran inválidas. Las tramas Jumbo suelen ser compatibles con la mayoría de los switches y NIC Fast Ethernet y Gigabit Ethernet.
+Si el tamaño de [[La Trama]] es inferior que el mínimo o mayor que el máximo, el dispositivo recpetor descarta la trama. Es posible que las tramas descartadas se originen en colisiones u otras señales no deseadas. Ellas se consideran inválidas. Las tramas Jumbo suelen ser compatibles con la mayoría de los switches y NIC Fast Ethernet y Gigabit Ethernet.
 
 # Campos de la trama Ethernet
 

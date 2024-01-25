@@ -1,6 +1,6 @@
 Los switches utilizan uno de los siguientes métodos de reenvío para el switching de datos entre puertos de la red:
 
--   **Switching de almacenamiento y envío**: Este método de reenvío de trama recibe [[la trama]] completa y calcula el CRC. Si la CRC es válida, el switch busca la dirección de destino, que determinala interfaz de salida . Luego la trama se reenvía al puerto correcto.
+-   **Switching de almacenamiento y envío**: Este método de reenvío de trama recibe [[La Trama]] completa y calcula el CRC. Si la CRC es válida, el switch busca la dirección de destino, que determinala interfaz de salida . Luego la trama se reenvía al puerto correcto.
 -   **Switching por método de corte**: Este método de reenvío de tramas reenvía la trama antes de que se reciba por completo. Como mínimo debe leer la dirección de destino para que la trama se pueda enviar.
 
 Una gran ventaja del store-and-forward (almacenamiento y reenvío), es que determina si la trama tiene errores antes de reenviarla. Cuando se detecta un errore en la trama, el switch la descarta. El proceso de descarte de las tramas con errores reduce el ancho de banda consumido por datos dañados: Store-and-forwarding se requiere para que el análisis de calida de servicio (QoS) en las redes convergentes, donde se necesita una clasificación de la trama para predecir el orden de prioridad del tráfico.

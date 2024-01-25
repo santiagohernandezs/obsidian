@@ -21,7 +21,7 @@ Un comando puede tener uno o más argumentos. La sintaxis proporciona el patrón
 
 
 
-Por ejemplo, la sintaxis para utilizar el **description** comando es **description** _string._ El argumento es un valor _string_ proporcionando por el usuario. **description** El comando se usa típicamente para identificar el propósito de una interfaz. Por ejemplo, al ingresar el comando, **description Connects to the main headquarter office switch**, se describe dónde se encuantra el otro dispositivo al final de la conexión.
+Por ejemplo, la sintaxis para utilizar el **description** comando es **description** _string._ El argumento es un valor _string_ proporcionando por el usuario. **description** El comando se usa típicamente para identificar el propósito de una interfaz. Por ejemplo, al ingresar el comando, `switch(config-if)#  description Connects to the main headquarter office switch`, se describe dónde se encuantra el otro dispositivo al final de la conexión.
 
 Los siguientes ejemplos muestran algunas convenciones utilizadas para registrar y usar comandos de IOS:
 

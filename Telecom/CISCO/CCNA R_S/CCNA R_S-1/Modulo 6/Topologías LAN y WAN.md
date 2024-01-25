@@ -51,7 +51,7 @@ Las topologías físicas punto a punto conectan dos nodos directamente, como se 
 
 **Nota**: Las topologías PTP están limitadas a dos nodos.
 
-**Nota**: Una conexión PTP a través de Ehternet requiere que el dispositivo determine si [[la trama]] está destinada a este nodo.
+**Nota**: Una conexión PTP a través de Ehternet requiere que el dispositivo determine si [[La Trama]] está destinada a este nodo.
 
 Un nodo de origen y un nodo de destino pueden estar conectados entre sí a travpes de cierta distancia geográfica utilizandomúltiples dispositivos intermedios. Sin embargo, el uso de dispositivos físicos en al red no afecta la topología lógica.
 
@@ -144,7 +144,7 @@ Estas redes funcionan en modo semidúplex, lo que significa que solo un disposit
 La PC1 tiene una trama que se sebe enviar a la PC3. La NIC de PC1 necesita determinar si algún dispostivo está transmitiendode otro dispositivoestá trasnmitiendo en el medio. Si no recibe trasmisiones de otro dispositivo, asumirá que la red está disponible para enviar.
 
 
-### El hub recibe [[la trama]]
+### El hub recibe [[La Trama]]
 
 El hub Ethernet recibe y envía la trama. Un hub de Ethernet también se conoce como repetidor multipuerto. Todos los bits que se reciben de un puerto entrante se regeneran y envían a todos los puertos.
 

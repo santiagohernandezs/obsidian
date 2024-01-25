@@ -1,9 +1,5 @@
 {
-  "accentColor": "#9563f2",
+  "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "",
-  "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 15,
-  "nativeMenus": true,
-  "translucency": false
+  "baseFontSize": 16
 }

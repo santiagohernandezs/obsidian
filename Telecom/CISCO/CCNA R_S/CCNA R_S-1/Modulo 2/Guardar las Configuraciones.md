@@ -29,7 +29,7 @@ Por ejemplo, suponga que se configuró un switch y que la configuración en ejec
 
 ![](https://ccnadesdecero.es/wp-content/uploads/2020/07/Archivo-MySwitchLogs.png)
 
-**Paso 3.** Ejecute el **show running-config** comando **show startup-config** o en el símbolo EXEC privilegiado. El texto que aparece en la ventana de la terminal se colocará en el archivo elegido.
+**Paso 3.** Ejecute el comando **show running-config** o **show startup-config** en el símbolo EXEC privilegiado. El texto que aparece en la ventana de la terminal se colocará en el archivo elegido.
 
 ```cisco
 Switch# show running-config

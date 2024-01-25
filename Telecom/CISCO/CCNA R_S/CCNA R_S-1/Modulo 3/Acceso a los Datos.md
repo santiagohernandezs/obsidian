@@ -3,7 +3,7 @@
 La capa 2 y 3 son responsables de llevar el mensaje desde el origen hacia el destino, ya que ambos protocolos contienen las direcciones de origen y destino, pero tienen objetivos distintos.
 
 -   **Direcciones de origen y de destino en la capa de red**: Son responsables de enviar el paquete IP desde el dispositivo de origen hasta el dispositivo final, ya esa en la misma red o a una red remota.
--   **Direcciones de origen y de destino de la capa de enlace de datos**: Son responsables de enviar [[la trama]] de enlace de datos desde una tarjeta de interfaz de red (NIC) a otra en la misma red.
+-   **Direcciones de origen y de destino de la capa de enlace de datos**: Son responsables de enviar [[La Trama]] de enlace de datos desde una tarjeta de interfaz de red (NIC) a otra en la misma red.
 
 ![](https://ccnadesdecero.es/wp-content/uploads/2020/03/Direcci%C3%B3n-de-origen-y-direcci%C3%B3n-de-destino.png)
 
@@ -42,7 +42,7 @@ Observa en la imagen que la porción de red de la dirección IPv4 de origen y la
 
 ## 4. Rol de las Direcciones de Capa de Enlace de Datos: Misma Red IP
 
-Cuando el emisor y el receptor del paquete IP están en la misma red, [[la trama]] del enlace de datos se envía directamente al dispositivo receptor. En una red Ethernet, las direcciones de enlace de datos se conocen como direcciones de **Control de acceso a medios de Ethernet (MAC)**, como se resalta en la imagen.
+Cuando el emisor y el receptor del paquete IP están en la misma red, [[La Trama]] del enlace de datos se envía directamente al dispositivo receptor. En una red Ethernet, las direcciones de enlace de datos se conocen como direcciones de **Control de acceso a medios de Ethernet (MAC)**, como se resalta en la imagen.
 
 ![Control de acceso a medios de Ethernet o MAC](https://ccnadesdecero.es/wp-content/uploads/2020/03/Control-de-acceso-a-medios-de-Ethernet-o-MAC.png)
 
@@ -50,10 +50,10 @@ Control de acceso a medios de Ethernet o MAC
 
 Las direcciones MAC están físicamente integradas en la NIC de Ethernet.
 
--   **Dirección MAC de orige**n: esta es la dirección del enlace de datos, o la dirección MAC de Ethernet, del dispositivo que envía [[la trama]] del enlace de datos con el paquete IP encapsulado. La dirección MAC de la NIC Ethernet de PC1 es **AA-AA-AA-AA-AA-AA**, escrita en notación hexadecimal.
+-   **Dirección MAC de orige**n: esta es la dirección del enlace de datos, o la dirección MAC de Ethernet, del dispositivo que envía [[La Trama]] del enlace de datos con el paquete IP encapsulado. La dirección MAC de la NIC Ethernet de PC1 es **AA-AA-AA-AA-AA-AA**, escrita en notación hexadecimal.
 -   **Dirección MAC de destino**: cuando el dispositivo receptor está en la misma red que el dispositivo emisor, esta es la dirección de enlace de datos del dispositivo receptor. En este ejemplo, la dirección MAC de destino es la dirección MAC del servidor FTP: **CC-CC-CC-CC-CC-CC**, escrita en notación hexadecimal.
 
-[[La trama]] con el paquete IP encapsulado ahora se puede transmitir desde la PC1 directamente al servidor FTP.
+[[La Trama]] con el paquete IP encapsulado ahora se puede transmitir desde la PC1 directamente al servidor FTP.
 
 ## 5. Dispositivos en una Red Remota
 
@@ -82,7 +82,7 @@ Cuando el remitente y el receptor del paquete IP están en redes diferentes, la 
 Capa 2 en diferentes redes IP
 
 -   **Dirección MAC de origen**: la dirección MAC de Ethernet del dispositivo emisor, PC1. La dirección MAC de la interfaz Ethernet de PC1 es AA-AA-AA-AA-AA-AA.
--   **Dirección MAC de destino**: cuando el dispositivo receptor, la dirección IP de destino, se encuentra en una red diferente del dispositivo emisor, el dispositivo emisor utiliza la [[dirección MAC Ethernet]] de la puerta de enlace o enrutador predeterminado. En este ejemplo, la dirección MAC de destino es la dirección MAC de la interfaz Ethernet R1, 11-11-11-11-11-11. Esta es la interfaz que está conectada a la misma red que PC1, como se muestra en la imagen.
+-   **Dirección MAC de destino**: cuando el dispositivo receptor, la dirección IP de destino, se encuentra en una red diferente del dispositivo emisor, el dispositivo emisor utiliza la [[Dirección MAC Ethernet]] de la puerta de enlace o enrutador predeterminado. En este ejemplo, la dirección MAC de destino es la dirección MAC de la interfaz Ethernet R1, 11-11-11-11-11-11. Esta es la interfaz que está conectada a la misma red que PC1, como se muestra en la imagen.
 
 La trama de Ethernet con el paquete IP encapsulado ahora se puede transmitir a R1. R1 reenvía el paquete al destino, Servidor web. Esto puede significar que R1 reenvía el paquete a otro Router o directamente al servidor web si el destino está en una red conectada a R1.
 
