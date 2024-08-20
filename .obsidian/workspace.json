@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informática/Sistemas Operativos/Sistemas Operativos.md",
+                "file": "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "d99e0ebcaea8aefd",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informática/Sistemas Operativos/Sistemas Operativos.md",
+                "file": "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informática/Sistemas Operativos/Sistemas Operativos.md",
+                "file": "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informática/Sistemas Operativos/Sistemas Operativos.md"
+                "file": "Ingeniería/Diseño de Sistemas de Información/Diseño de Sistemas de Información y Desarrollo de Aplicaciones.md"
               }
             }
           },
@@ -176,6 +176,25 @@
   },
   "active": "c05934cd2190e1f1",
   "lastOpenFiles": [
+    "Informática/Programación/Fundamentos/Variables.md",
+    "Informática/Programación/Fundamentos/Fundamentos.md",
+    "Informática/Programación/Fundamentos/Estructuras de datos/Colas.md",
+    "Informática/Programación/Fundamentos/Estructuras de datos/Colar de Prioridad.md",
+    "Informática/Programación/Fundamentos/Estructuras de datos/Arreglos Dinámicos.md",
+    "Informática/Programación/Fundamentos/Estructuras de datos/Estructura de datos.md",
+    "Informática/Algoritmia/Estructuras/Estructuras.md",
+    "Informática/Programación/Programación.md",
+    "Informática/Programación/JavaScript/Javascript.md",
+    "Informática/Programación/Principios SOLID/Open-Closed Principle.md",
+    "Informática/Programación/Patrones de diseño/Patrones Creacionales/Abstract Factory.md",
+    "Informática/Programación/Fundamentos/Estructuras de datos/Stacks - Pilas.md",
+    "Informática/Programación/Fundamentos/Estructuras de datos/Listas Enlazadas.md",
+    "Informática/Diagramas UML/Diagramas de Comportamiento/Diagramas de Comportamiento.md",
+    "Informática/Estructura de Base de Datos/Estructura de Base de Datos.md",
+    "Informática/Algoritmia/Algoritmia.md",
+    "Informática/Algoritmia/Identificadores/Identificadores.md",
+    "Informática/Algoritmia/Digramas/Diagramas de Flujo.md",
+    "Informática/Sistemas Operativos/Sistemas Operativos.md",
     "Informática/Sistemas Operativos/Linux/Linux.md",
     "Informática/Sistemas Operativos/Linux/Ubuntu y Sistemas Operativos/Ubuntu y Sistemas Operativos.md",
     "Informática/Sistemas Operativos/Linux/Ubuntu y Sistemas Operativos/Superusuario (root).md",
@@ -183,25 +202,6 @@
     "Informática/Sistemas Operativos/Linux/Introducción/Introducción.md",
     "Informática/Sistemas Operativos/Linux/Introducción/Comandos.md",
     "Informática/Informática.md",
-    "Ingeniería/Circuitos Eléctricos/Fundamentos/Potencial Eléctrico.md",
-    "Informática/HTML/HTML.md",
-    "Ingeniería/Circuitos Eléctricos/Fundamentos/Circuitos.md",
-    "índice.md",
-    "Telecom/Telecom.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Conexiones a Internet.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Componentes de la Red.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Arquitectura de Red.md",
-    "Telecom/CISCO/CCNA R_S/Lessons/Routing fundamentals.md",
-    "Telecom/CISCO/CCNA R_S/Lessons/OSI Model & TCP-IP Suite.md",
-    "Telecom/CISCO/CCNA R_S/Lessons/IPv4 Header.md",
-    "Telecom/CISCO/CCNA R_S/Lessons/IPv4 addressing.md",
-    "Telecom/CISCO/CCNA R_S/Lessons/Interfaces and Cables.md",
-    "Telecom/CISCO/CCNA R_S/Lessons/Ethernet LAN Switching.md",
-    "Telecom/CISCO/CISCO.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Modulo 1.md",
-    "Telecom/CISCO/CCNA.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 9/Modulo 9.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 8/Modulo 8.md",
     "Contabilidad/Financial Statements",
     "Contabilidad",
     "Telecom/CISCO/CCNA R_S/Lessons",
