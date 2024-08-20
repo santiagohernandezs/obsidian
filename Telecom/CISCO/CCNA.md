@@ -26,10 +26,8 @@ Podemos mencionar algunas de sus ventajas:
 
 - Una de las certificaciones más reconocidas en el sector TI.
 
-- Es un paso importante para construir una carrera en TI, de esta manera puedes prepararte para una carrera exitosa en la creación de redes.
-    
+- Es un paso importante para construir una carrera en TI, de esta manera puedes prepararte para una carrera exitosa en la creación de redes.   
 - Es posible que gane mucho más dinero del que actualmente está percibiendo.
-    
 - Conocimientos prácticos sobre routing, switching, aplicaciones de red, protocolos y servicios.
     
 - Esta certificación ayuda a conseguir un mejor empleo, por ser un profesional certificado se convierte en un candidato más atractivo para el cargo que usted desea desempeñar dentro de la empresa.

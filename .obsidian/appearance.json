@@ -1,5 +1,11 @@
 {
-  "accentColor": "",
+  "accentColor": "#e3e5dc",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16.5,
+  "cssTheme": "",
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [],
+  "showViewHeader": true
 }

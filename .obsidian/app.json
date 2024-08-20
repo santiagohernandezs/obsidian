@@ -1,5 +1,18 @@
 {
   "promptDelete": false,
   "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showRibbon": false,
+  "showLineNumber": true,
+  "showInlineTitle": true,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "autoConvertHtml": true,
+  "vimMode": true,
+  "tabSize": 4
 }

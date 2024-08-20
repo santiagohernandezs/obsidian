@@ -1,13 +1,5 @@
 {
   "file-explorer:new-file-in-new-pane": [],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "markdown:toggle-preview": [
     {
       "modifiers": [
@@ -153,5 +145,14 @@
     }
   ],
   "obsidian-excalidraw-plugin:insert-link": [],
-  "obsidian-excalidraw-plugin:toggle-lock": []
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
 }

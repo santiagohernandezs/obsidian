@@ -4,7 +4,6 @@ tags:
   - google
 aliases:
 ---
-
 # Cloud Computing
 ## What is cloud computing?
 US National Institute of Standards and Technology created the term "cloud computing", as a way of using information technology that has these five equally important traits.

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Telecom/CISCO/\"",
@@ -57,10 +57,17 @@
       }
     },
     {
-      "query": "path:Informática",
+      "query": "path:Informática  ",
       "color": {
         "a": 1,
         "rgb": 8102393
+      }
+    },
+    {
+      "query": "path:Diseño  ",
+      "color": {
+        "a": 1,
+        "rgb": 7138018
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 216,
-  "scale": 0.1803141715582634,
+  "scale": 0.09173697791864628,
   "close": true
 }

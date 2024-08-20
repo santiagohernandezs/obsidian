@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a7703954300b925",
+        "id": "e6152de70e941b59",
         "type": "tabs",
         "children": [
           {
-            "id": "6b62c381e7e27428",
+            "id": "c05934cd2190e1f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecom/CISCO/CCNA R_S/Lessons/IPv4 Header.md",
+                "file": "Informática/Sistemas Operativos/Sistemas Operativos.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,12 +43,23 @@
             }
           },
           {
+            "id": "3181375bac12c006",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
             "id": "9f813e637d2444a7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200
   },
   "right": {
     "id": "d99e0ebcaea8aefd",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecom/CISCO/CCNA R_S/Lessons/IPv4 Header.md",
+                "file": "Informática/Sistemas Operativos/Sistemas Operativos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,99 +113,109 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecom/CISCO/CCNA R_S/Lessons/IPv4 Header.md",
+                "file": "Informática/Sistemas Operativos/Sistemas Operativos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3181375bac12c006",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "417e1cb396f444a8",
+            "id": "d5f2f1b0c1223d66",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecom/CISCO/CCNA R_S/Lessons/IPv4 Header.md"
+                "file": "Informática/Sistemas Operativos/Sistemas Operativos.md"
+              }
+            }
+          },
+          {
+            "id": "eb2e504d1d8c8168",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "6dc143918bca85b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68b9ceace01dbd19",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 366.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "417e1cb396f444a8",
+  "active": "c05934cd2190e1f1",
   "lastOpenFiles": [
-    "Telecom/CISCO/CCNA R_S/Lessons/IPv4 addressing.md",
+    "Informática/Sistemas Operativos/Linux/Linux.md",
+    "Informática/Sistemas Operativos/Linux/Ubuntu y Sistemas Operativos/Ubuntu y Sistemas Operativos.md",
+    "Informática/Sistemas Operativos/Linux/Ubuntu y Sistemas Operativos/Superusuario (root).md",
+    "Informática/Sistemas Operativos/Linux/Introducción/Sistema Operativo (OS).md",
+    "Informática/Sistemas Operativos/Linux/Introducción/Introducción.md",
+    "Informática/Sistemas Operativos/Linux/Introducción/Comandos.md",
+    "Informática/Informática.md",
+    "Ingeniería/Circuitos Eléctricos/Fundamentos/Potencial Eléctrico.md",
+    "Informática/HTML/HTML.md",
+    "Ingeniería/Circuitos Eléctricos/Fundamentos/Circuitos.md",
+    "índice.md",
+    "Telecom/Telecom.md",
+    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Conexiones a Internet.md",
+    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Componentes de la Red.md",
+    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Arquitectura de Red.md",
+    "Telecom/CISCO/CCNA R_S/Lessons/Routing fundamentals.md",
+    "Telecom/CISCO/CCNA R_S/Lessons/OSI Model & TCP-IP Suite.md",
     "Telecom/CISCO/CCNA R_S/Lessons/IPv4 Header.md",
+    "Telecom/CISCO/CCNA R_S/Lessons/IPv4 addressing.md",
     "Telecom/CISCO/CCNA R_S/Lessons/Interfaces and Cables.md",
     "Telecom/CISCO/CCNA R_S/Lessons/Ethernet LAN Switching.md",
-    "Telecom/CISCO/CCNA R_S/Lessons/OSI Model & TCP-IP Suite.md",
-    "Untitled.md",
-    "Telecom/CISCO/CCNA.md",
-    "Telecom/CISCO/CCNA R_S/Lessons",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 3/Acceso a los Datos.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 2/Puertos y Direcciones.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 2/Guardar las Configuraciones.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 2/Estructura de Comandos.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 2/Configuración básica de Dispositivos.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 2/CISCO IOS.md",
+    "Telecom/CISCO/CISCO.md",
     "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Modulo 1.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Las redes nos Conecetan.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Seguridad en la Red.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Tendencias de Red.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Arquitectura de Red.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Conexiones a Internet.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Topologías y Reprentaciones de Red.md",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 1/Componentes de la Red.md",
+    "Telecom/CISCO/CCNA.md",
+    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 9/Modulo 9.md",
+    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 8/Modulo 8.md",
+    "Contabilidad/Financial Statements",
+    "Contabilidad",
+    "Telecom/CISCO/CCNA R_S/Lessons",
+    "Telecom/CISCO/CCNA R_S/CCNA R_S-1",
     "Pasted image 20230916121355.png",
     "Pasted image 20230916140108.png",
     "Pasted image 20230916140000.png",
-    "Pasted image 20230916135848.png.md",
     "Pasted image 20230916135848.png",
     "Pasted image 20230916135502.png",
-    "Notas rapidas.md",
-    "índice.md",
-    "conflict-files-obsidian-git.md",
-    "Telecom/DOCS/Routing _ Switching/OSPF/Tipos de Redes.md",
     "Telecom/DOCS/Routing _ Switching/OSPF",
     "Telecom/DOCS/Routing _ Switching/MPLS",
     "Telecom/DOCS/Routing _ Switching/IS-IS",
     "Telecom/DOCS/Routing _ Switching/BGP",
     "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 9",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 8",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 7",
-    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 6"
+    "Telecom/CISCO/CCNA R_S/CCNA R_S-1/Modulo 8"
   ]
 }
